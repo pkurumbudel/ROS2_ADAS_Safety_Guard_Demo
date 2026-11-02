@@ -1,0 +1,5 @@
+builtin_interfaces/Time decision_stamp
+uint32 last_sequence
+bool proposal_accepted
+uint8 reason_code
+string diagnostic
